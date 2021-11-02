@@ -1,10 +1,12 @@
 - 👋 Hi, I’m Yeseo PARK
 - HKPolyU - BSc (Hons)Artificial Intelligencee and Finantial Technology (Department of computing)
-- IG:@yeseo_park
-- 👀 I’m interested in area of AI, Machine Learning, Deep Learning, IoT, and Finance technology
+- - 👀 I’m interested in area of AI, Machine Learning, Deep Learning, IoT, and Finance technology
 - My Hobby is take a photo, playing instruments, cooking, baking, play badminton
 - 🌱 I’m currently learning Deeep Learning and Machine Learning
+- 
 - 📫 How to reach me: yeser1299@gmail.com
+- Personal Home Page: https://yspark1299.github.io/yeseohomepage/
+- IG:@yeseo_park
 
 <!---
 yspark1299/yspark1299 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
