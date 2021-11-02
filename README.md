@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Yeseo PARK @yspark1299!
-- 👀 I’m interested in AI, IoT, HTLM, Finance, Cooking
+- 👋 Hi, I’m Yeseo PARK IG:@yeseo_park
+- 👀 I’m interested in AI, Machine Learning, Deep Learning, Finance technology, Cooking
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: yeser1299@gmail.com
 
 <!---
 yspark1299/yspark1299 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
