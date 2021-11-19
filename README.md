@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yeseo PARK
 - HKPolyU - BSc (Hons)Artificial Intelligencee and Finantial Technology (Department of Computing)
-- - 🌱 I’m currently learning Deeep Learning and Machine Learning in Korea University (As an Exchange student)
+- - 🌱 I’m currently learning Deeep Learning and Machine Learning
 - - 👀 I’m interested in area of AI, Machine Learning, Deep Learning, IoT, and Finance Technology
 - My Hobby is taking a photo, playing instruments, cooking, baking, play badminton
 - 
