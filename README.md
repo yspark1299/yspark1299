@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Yeseo PARK
-- HKPolyU - BSc (Hons)Artificial Intelligencee and Finantial Technology (Department of Computing)
-- - 🌱 I’m currently learning Deeep Learning and Machine Learning
-- - 👀 I’m interested in area of AI, Machine Learning, Deep Learning, IoT, and Finance Technology
+- 👋 Hello! I’m Yeseo PARK.
+- HKPolyU - BSc(Hons) Artificial Intelligence and Finantial Technology(Department of Computing)
+- - 🌱 I’m currently learning Big data analytics, Deeep Learning, and Machine Learning
+- - 👀 I’m interested in area of AI, Machine Learning, Deep Learning, data analytics, AR/VR, IoT, and Finance Technology
 - 
 - 📫 How to reach me: yeser1299@gmail.com
 - Personal Home Page: https://yspark1299.github.io/yeseohomepage/
