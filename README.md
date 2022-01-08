@@ -6,6 +6,7 @@
 - 📫 How to reach me: yeser1299@gmail.com
 - Personal Home Page: https://yspark1299.github.io/yeseohomepage/
 - 
+- ML:Machine Learning, DL: Deep Learning, WD:Web Development
 <!---
 yspark1299/yspark1299 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
