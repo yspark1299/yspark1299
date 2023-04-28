@@ -25,7 +25,7 @@ I'm a fresh graduated student majoring in BSc(Hons)Fintech & AI at HK PolyU. Liv
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeseo-park" height="30" width="40" />
   </a>
   <a href="mailto:abc@gmail.com">
-    <span style="font-size: 100px;">&#128231;</span>
+    <span width="40" height="40" style="font-size: 100px;">&#128231;</span>
   </a>
 </p>
 
