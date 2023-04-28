@@ -19,6 +19,8 @@ You can click the Preview link to take a look at your changes.
 I'm a fresh graduated student majoring in BSc(Hons)Fintech & AI at HK PolyU. Living abroad brings me as an open-minded person with adaptability skills. I love different ways of problem solving or opinions because new skills enable me to develop my ability further, and having a good analytical and leadership skills. I am mightily challenging myself, think positively, and curious person. The most impressive quote is, "Nothing seems to be easy, but there are nothings you cannot do."
 <h2>Relevent courses:</h2> Deep Learning, Big Data Analytics, Machine Learning, Artificial Intelligence, Emerging topics in Fintech, Business Finance, Investment, E-business
 
+- 📫 How to reach me **yeser1299@gmail.com**
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/yeseo-park" target="_blank">
