@@ -18,8 +18,9 @@ I'm a fresh graduated student majoring in BSc(Hons)Fintech & AI at HK PolyU. Liv
 
 - 📫 How to reach me **yeser1299@gmail.com**
 <h3><a href="mailto:abc@gmail.com">📫</a></h3>
-<h3 align="left">Connect with me:</h3>ㄷ
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="mailto:abc@gmail.com">📫</a></h3>
   <a href="https://linkedin.com/in/yeseo-park" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeseo-park" height="30" width="40" />
   </a>
