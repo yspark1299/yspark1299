@@ -15,8 +15,9 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h1 align="center">Hi 👋, I'm Yeseo PARK</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1>Hi 👋, I'm Yeseo PARK</h1>
+<h3>I'm an fresh graduated student majoring in BSc(Hons)Fintech & AI at HK PolyU. An open-minded and creative with good analytical and leadershipskills. Living abroad brings me as an open-minded person with adaptability skills. I love different ways of problem solving or opinions because new skills enable me to develop my ability further. I am mightily challenging myself, think positively, and curious person. The most impressive quote is, "Nothing seems to be easy, but there are nothings you cannot do."</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
